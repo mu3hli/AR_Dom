@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "U:\\SUIT\\Unitiy\\AR_Sphare\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_app_icon.png.flat",
+        "source": "U:\\SUIT\\Unitiy\\AR_Sphare\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "U:\\SUIT\\Unitiy\\AR_Sphare\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "U:\\SUIT\\Unitiy\\AR_Sphare\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "U:\\SUIT\\Unitiy\\AR_Sphare\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "U:\\SUIT\\Unitiy\\AR_Sphare\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "U:\\SUIT\\Unitiy\\AR_Sphare\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "U:\\SUIT\\Unitiy\\AR_Sphare\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "U:\\SUIT\\Unitiy\\AR_Sphare\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "U:\\SUIT\\Unitiy\\AR_Sphare\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    }
+]
